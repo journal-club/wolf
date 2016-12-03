@@ -1,3 +1,8 @@
+# Submodules.
+# Ignoring them just in case. Internet is literally screaming don't use submodules.
+docs
+templates
+
 # Logs
 logs
 *.log
