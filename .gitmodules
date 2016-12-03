@@ -1,0 +1,6 @@
+[submodule "docs"]
+	path = docs
+	url = https://github.com/journal-club/docs.git
+[submodule "templates"]
+	path = templates
+	url = https://github.com/journal-club/templates.git
